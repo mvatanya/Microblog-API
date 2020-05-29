@@ -1,3 +1,5 @@
+Frontend code is in Microblog-UI repo
+
 ## Microblog Backend
 
 1.  Clone this repository and `cd` into it
